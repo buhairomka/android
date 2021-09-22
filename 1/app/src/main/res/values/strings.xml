@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab 1</string>
+    <string name="f10sp">10sp</string>
+    <string name="f15sp">15sp</string>
+    <string name="f25sp">25sp</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+</resources>
