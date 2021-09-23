@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void setButtonApply(View view) {
-        final String editTextText = editText.getText().toString();
+        final String editTextText = editText.getText().toString().trim();
         if (!editTextText.equals("")) {
             outputText = editTextText;
             textView.setTextSize(fontSize);
