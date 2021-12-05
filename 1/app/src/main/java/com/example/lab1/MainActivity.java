@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         buttonApply = findViewById(R.id.button_apply);
         buttonCancel = findViewById(R.id.button_cancel);
         editText = findViewById(R.id.editTextTextPersonName);
-
     }
 
     public void setButtonApply(View view) {
